@@ -63,6 +63,8 @@ class Home extends React.Component {
                   <div class="card-body">
                       <p class="mb-3 tx-14">Nguyễn Cao Thái</p>
                       <p class="mb-3 tx-14">4501104211</p>
+                      <p class="mb-3 tx-14">lanhoxga@gmail.com</p>
+
                       <img class="img-fluid" src="https://scontent.fsgn2-6.fna.fbcdn.net/v/t39.30808-6/293034441_3278988778999228_6245077723265667568_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=fBaJXimB4gwAX-W2U__&_nc_ht=scontent.fsgn2-6.fna&oh=00_AfDEbgyaJfiTKU9UE5yrrk7ZaqFMC0D-aF_X3ZJbfZoq3w&oe=63611FC6" alt="" />
                   </div>
                   <div class="card-footer">
