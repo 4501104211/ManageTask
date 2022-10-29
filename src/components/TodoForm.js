@@ -41,7 +41,7 @@ function TodoForm(props) {
       ) : (
         <>
           <input
-            placeholder="Add a todo"
+            placeholder="Hãy nhập ghi chú task"
             value={input}
             onChange={handleChange}
             name="text"
@@ -49,7 +49,7 @@ function TodoForm(props) {
             ref={inputRef}
           />
           <button onClick={handleSubmit} className="todo-button">
-            Add todo
+            Thêm
           </button>
         </>
       )}
